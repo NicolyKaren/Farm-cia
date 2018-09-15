@@ -1,0 +1,18 @@
+\\Lab15-prof\professores\Prof_Douglas\ILP3\sistema_farmacia
+
+Criar os formul�rios de inclus�o (HTML \ PHP)
+
+incluir_categoria.html    - OK 
+incluir_categoria.php     - OK (consultar_categoria.php) - OK
+_____________________________________________________________
+
+incluir_principioativo.html
+incluir_principioativo.php     (consultar_principioativo.php)
+incluir_fabricante.html
+incluir_fabricante.php         (consultar_fabricante.php)
+incluir_produto.html
+incluir_produto.php            (consultar_produto.php)
+incluir_funcionario.html
+incluir_funcionario.php        (consultar_funcionario.php)
+incluir_responsavel.html
+incluir_responsavel.php        (consultar_responsavel.php)

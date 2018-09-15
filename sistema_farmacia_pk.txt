@@ -1,0 +1,17 @@
+http://localhost/sistema_farmacia/
+
+\\Lab12a-prof\professores\ILP3
+
+incluir_categoria.html - OK    consultar_categoria.php
+incluir_categoria.php - OK
+incluir_fabricante.html        consultar_fabricante.php
+incluir_fabricante.php
+incluir_produto.html           consultar_produto.php
+incluir_produto.php
+incluir_principioativo.html    consultar_principioativo.php
+incluir_principioativo.php
+incluir_funcionario.html       consultar_funcionario.php
+incluir_funcionario.php
+incluir_responsavel.html       consultar_responsavel.php
+incluir_responsavel.php
+

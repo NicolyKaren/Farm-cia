@@ -1,0 +1,20 @@
+http://localhost/sistema_farmacia/
+\\Lab15-prof\professores\Prof_Douglas\ILP3\sistema_farmacia
+
+excluir_categoria_select.php       - OK    
+excluir_categoria.php              - OK
+____________________________________________________________
+alterar_categoria_select.php       - OK    
+alterar_categoria.php              - OK
+
+alterar_fabricante_select.php      
+alterar_fabricante.php
+alterar_produto._select.php         
+alterar_produto.php
+alterar_principioativo_select.php 
+alterar_principioativo.php
+alterar_funcionario_select.php      
+alterar_funcionario.php
+alterar_responsavel_select.php    
+alterar_responsavel.php
+

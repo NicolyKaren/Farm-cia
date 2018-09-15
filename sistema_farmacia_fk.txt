@@ -1,0 +1,43 @@
+sistema_farmacia_pk.txt(6) / sistema_farmacia_fk.txt(7)
+
+\\Lab15-prof\professores\Prof_Douglas\ILP3\sistema_farmacia
+
+incluir_categoria_has_produto_select.php        - OK
+incluir_categoria_has_produto.php               - OK
+
+incluir_principioativo_has_produto_select.php  
+incluir_principioativo_has_produto.php   
+incluir_estoque_select.php
+incluir_estoque.php
+incluir_fabricante_has_produto_select.php
+incluir_fabricante_has_produto.php
+incluir_itens_do_agendamento_select.php
+incluir_itens_do_agendamento.php
+incluir_agendamento_select.php
+incluir_agendamento.php
+incluir_paciente_select.php
+incluir_paciente.php
+
+
+
+
+consultar_categoria.php
+consultar_fabricante.php
+consultar_produto.php
+consultar_principioativo.php
+consultar_funcionario.php
+consultar_responsavel.php
+________________________________________________
+consultar_categoria_has_produto.php
+consultar_principioativo_has_produto.php   
+consultar_estoque.php
+consultar_fabricante_has_produto.php
+consultar_itens_do_agendamento.php
+consultar_agendamento.php
+consultar_paciente.php
+
+
+
+
+
+
